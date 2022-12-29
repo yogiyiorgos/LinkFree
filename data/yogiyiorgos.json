@@ -1,0 +1,26 @@
+{
+  "name": "YogiYiorgos",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "⌨️ React Developer ⚛ | 🌁 MSc Civil Engineer 🧮 | 🎹 Electronic Music Producer 🎶",
+  "avatar": "https://github.com/yogiyiorgos.png",
+}
+
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/YogiYiorgos",
+      "icon": "FaTwitter"
+    },
+  {
+      "name": "Follow me on Mastodon",
+      "url": "https://indieweb.social/@yogiyiorgos",
+      "icon": "FaMastodon"
+    },
+  {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/george_fil_/?hl=en",
+      "icon": "FaInstagram"
+    }
+  ]
+
